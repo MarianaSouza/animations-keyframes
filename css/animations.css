@@ -6,32 +6,29 @@
   animation-fill-mode: both;
 }
 
-.delay-third {
+#delay-third {
   animation-delay: 0.3s;
 }
-.delay-half {
+#delay-half {
   animation-delay: 0.5s;
 }
-.delay-1 {
+#delay-1 {
   animation-delay: 1s;
 }
-.delay-2 {
+#delay-2 {
   animation-delay: 2s;
 }
-.delay-2_5{
+#delay-2_5{
   animation-delay: 2.5s;
 }
-.delay-3 {
+#delay-3 {
   animation-delay: 3s;
 }
-.delay-3_2 {
-  animation-delay: 3.2s;
+#delay-3_5 {
+  animation-delay: 3.5s;
 }
-.delay-4 {
+#delay-4 {
   animation-delay: 4s;
-}
-.delay-4_5 {
-  animation-delay: 4.5s;
 }
 
 @-webkit-keyframes animateIn {
